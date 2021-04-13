@@ -28,7 +28,7 @@ body{
 	#home{
 	display:flex;
 	flex-direction:column;
-	padding:4px 300px;
+	padding:4px 100px;
 	align-items:center;
 	position:relative;
 }
